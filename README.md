@@ -3,7 +3,7 @@
 A 64 bit safe restoration of the original NoFences project by Twometer.
 
 ## About This Project
-This is an adaptation of the original NoFences repo by Twometer. I was looking for a simple desktop organiser, came across Stardock, and then found this project. I’ve been tinkering with repos for a couple of years for personal use, but this is the first time I’ve stepped out of my comfort zone to actually fix and ship something.
+This is an adaptation of the original [NoFences](https://github.com/Twometer/NoFences) repo by [Twometer](https://github.com/Twometer/NoFences/commits?author=Twometer). I was looking for a simple desktop organiser, came across Stardock, and then found this project. I’ve been tinkering with repos for a couple of years for personal use, but this is the first time I’ve stepped out of my comfort zone to actually fix and ship something.
 I’m a total amateur when it comes to correcting code outside of tweaking things for myself, so please go easy on me — any helpful advice or constructive criticism is welcome.
 This version focuses on stability, 64 bit compatibility, and fixing core behaviour that prevented the original project from working properly on modern Windows.
 
