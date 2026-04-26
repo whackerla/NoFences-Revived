@@ -77,6 +77,44 @@ Right clicking a fence gives you options to:
 •	Delete the current fence
 The goal of this version is faithful functionality, but modern stability.
 
+## Installation (Simple Guide)
+
+```
+1. Download the EXE
+Grab the latest version from the Releases page: [here](https://github.com/whackerla/NoFences-Revived/releases/tag/1.0.0)
+
+Extract it anywhere you like (Desktop, Documents, etc).
+
+2. Run the app
+
+Inside the ZIP you’ll find:
+
+NoFences-Revived.exe
+
+Double‑click it to start the app.
+No installation required.
+
+3. Your first fence will appear
+Right‑click the fence → 
+for options like:
+
+Lock fence
+
+Minimise/expand on hover
+
+Rename
+
+Change title size
+
+Delete fence
+
+4. Drag shortcuts into fences
+Just drag any shortcut into a fence.
+The app will take ownership of it and keep everything tidy.
+
+You will find your backend in Users/[Username]/AppData/Local/
+```
+
 ## Credits
 ```
 Huge thanks to Twometer for the original NoFences project.
