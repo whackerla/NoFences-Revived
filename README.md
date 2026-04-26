@@ -77,11 +77,11 @@ Right clicking a fence gives you options to:
 •	Delete the current fence
 The goal of this version is faithful functionality, but modern stability.
 
-## Installation (Simple Guide)
+## Installation (Simple Guide):
+Grab the latest exe version from the Releases page: [here](https://github.com/whackerla/NoFences-Revived/releases/tag/1.0.0)
 
 ```
 1. Download the EXE
-Grab the latest version from the Releases page: [here](https://github.com/whackerla/NoFences-Revived/releases/tag/1.0.0)
 
 Extract it anywhere you like (Desktop, Documents, etc).
 
