@@ -79,7 +79,10 @@ The goal of this version is faithful functionality, but modern stability.
 
 ## Credits
 ```
-Huge thanks to Twometer for the original NoFences project. This fork exists purely because the idea was too good to let die, I needed a desktop cleanup solution, and because, I finally took the plunge to try and learn something I did not have a clue about.
+Huge thanks to Twometer for the original NoFences project.
+This fork exists purely because the idea was too good to let die,
+I needed a desktop cleanup solution, and because,
+I finally took the plunge to try and learn something I did not have a clue about.
 ```
 
 
